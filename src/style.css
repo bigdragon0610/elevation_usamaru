@@ -1,0 +1,20 @@
+body {
+  text-align: center;
+}
+
+#usamaru_btn {
+  padding: 0;
+  margin: 0;
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+}
+
+#usamaru_btn > img {
+  width: 300px;
+  height: 250px;
+}
+
+#usamaru {
+  color: blueviolet;
+}
